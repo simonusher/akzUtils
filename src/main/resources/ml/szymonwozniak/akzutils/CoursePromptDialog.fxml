@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.szymonwozniak.akzutils.controller.CoursePromptController">
+   <children>
+      <TextArea fx:id="textArea" editable="false" prefWidth="300.0" wrapText="true" VBox.vgrow="ALWAYS" />
+   </children>
+</VBox>

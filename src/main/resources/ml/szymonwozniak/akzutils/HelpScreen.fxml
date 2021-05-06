@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="1.  Aby używać opcji &quot;Tylko pasujące kursy&quot; należy wczytać plik .html ze swoim planem,&#10;pobrany z JSOSa po zalogowaniu i wybraniu odpowiedniego semestru w zakładce &quot;Zajęcia&quot;." wrapText="true">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextArea>
+      <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="2. W pierwszym polu tekstowym należy wpisywać zapytania, które chce się wyszukać. &#10;Powinny być oddzielone spacjami.&#10;Przykładowe zapytanie: &quot;angielski czwartek poniedziałek&quot;." wrapText="true">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextArea>
+      <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="3. W drugim polu tekstowym należy wpisywać zapytania, które chce się pominąć. &#10;Powinny być oddzielone spacjami.&#10;Przykładowo zapytanie: &quot;czwartek, piątek&quot;,&#10;pokaże wszystkie kursy które nie są w czwartek lub w piątek." wrapText="true">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextArea>
+      <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="4. Aby sortować według danych z kilku kolumn,&#10;należy je klikać po kolei przytrzymując SHIFT.&#10;Aby ukryć kolumnę, należy ją odznaczyć po kliknięciu &quot;+&quot; w prawym górnym rogu." wrapText="true">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextArea>
+   </children>
+</VBox>
