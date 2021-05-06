@@ -126,6 +126,6 @@ Project Link: [https://github.com/simonusher/akzUtils](https://github.com/simonu
 [issues-shield]: https://img.shields.io/github/issues/simonusher/akzUtils.svg?style=for-the-badge
 [issues-url]: https://github.com/simonusher/akzUtils/issues
 [license-shield]: https://img.shields.io/github/license/simonusher/akzUtils.svg?style=for-the-badge
-[license-url]: https://github.com/simonusher/akzUtils/blob/master/LICENSE.txt
+[license-url]: https://github.com/simonusher/akzUtils/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/simonusher
